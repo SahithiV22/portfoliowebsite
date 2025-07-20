@@ -6,6 +6,9 @@ menuIcon.oneclick = () => {
     menuIcon.classList.toggle('bx-x');
 }
 
+
+
+
 //scroll sections
 let sections = document.querySelectorAll('section');
 let navlinks = document.queryselectorAll('header nav a');
